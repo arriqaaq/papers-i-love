@@ -8,3 +8,7 @@ A list of papers I've loved reading
 
 ## Ad Tech
 - [Optimal Bidding in Online Auctions (2001)](http://www.mit.edu/~dbertsim/papers/Revenue%20Management/Optimal%20Bidding%20in%20Online%20Auctions.pdf)
+
+## Data Structures
+
+- [SuRF Radix tree](https://www.cs.cmu.edu/~huanche1/publications/surf_paper.pdf)
