@@ -12,3 +12,4 @@ A list of papers I've loved reading
 ## Data Structures
 
 - [SuRF Radix tree](https://www.cs.cmu.edu/~huanche1/publications/surf_paper.pdf)
+- [Adaptive Radix Trees](https://db.in.tum.de/~leis/papers/ART.pdf)
