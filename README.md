@@ -13,3 +13,7 @@ A list of papers I've loved reading
 
 - [SuRF Radix tree](https://www.cs.cmu.edu/~huanche1/publications/surf_paper.pdf)
 - [Adaptive Radix Trees](https://db.in.tum.de/~leis/papers/ART.pdf)
+
+## Network
+
+- [Vivaldi- A Decentralized Network Coordinate System](https://pdos.csail.mit.edu/papers/vivaldi:sigcomm/paper.pdf)
