@@ -17,3 +17,7 @@ A list of papers I've loved reading
 ## Network
 
 - [Vivaldi- A Decentralized Network Coordinate System](https://pdos.csail.mit.edu/papers/vivaldi:sigcomm/paper.pdf)
+
+## Traffic Engineering
+
+- [Taiji - Dynamic traffic engineering at Facebook](https://github.com/copyconstruct/library/blob/master/traffic-engineering/Papers/taiji.pdf)
